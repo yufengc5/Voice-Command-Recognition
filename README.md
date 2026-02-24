@@ -1,7 +1,6 @@
 # Voice Command Recognition Project
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/yufengc5/Voice-Command-Recognition/blob/main/TVD_P3_yufeng_raul_DEF.ipynb)
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yufengc5/Voice-Command-Recognition/blob/main/TVD_P3_yufeng_raul_DEF.ipynb)
 ## Overview
 
 This project focuses on the design, implementation, and training of various machine learning models aimed at recognizing voice commands. The goal is to explore how different techniques can identify relevant patterns in audio signals and develop models capable of correctly classifying different voice commands recorded by various speakers under diverse conditions, such as background noise and different voice characteristics.
